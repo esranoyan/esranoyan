@@ -5,11 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esranoyan&label=Profile%20views&color=0e75b6&style=flat" alt="esranoyan" /> </p>
 
 - 🔭 I’m currently working on **Model Satellite Competetition**
-
-- 🌱 I’m currently learning **C++, robotic coding, embedded systems**
-
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning**
-
+ 
 - 📫 How to reach me **esranoyan748@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
