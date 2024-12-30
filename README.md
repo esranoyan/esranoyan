@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esra</h1>
 <h3 align="center">A computer engineering student</h3>
+<img align="right" alt="Penguin coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ1ZnJyMWdlNnUydnhubzA0YWk2NjA4aXB0Z3BmcmtxczNudHg3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esranoyan&label=Profile%20views&color=0e75b6&style=flat" alt="esranoyan" /> </p>
 
