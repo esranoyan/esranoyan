@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esranoyan&label=Profile%20views&color=0e75b6&style=flat" alt="esranoyan" /> </p>
 
-- 👯 I’m looking to collaborate on **Web and Mobile Development**
+- 👯 I’m looking to collaborate on **Web Development**
 
 - 🌱 I’m currently learning **C#, ASP.NET Core MVC**
   
