@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 🌱 I’m currently learning **C#, ASP.NET Core MVC**
+- 🌱 I’m currently learning **React, Typescript and PostgreSQL**
   
 - 📫 How to reach me **esranoyan748@gmail.com**
   
