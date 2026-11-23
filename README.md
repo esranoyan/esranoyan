@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esranoyan&label=Profile%20views&color=0e75b6&style=flat" alt="esranoyan" /> </p>
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Deepfake & AI Media Detection** 
 
-- 🌱 I’m currently learning **React, TypeScript and PostgreSQL**
+- 🔍 I’m currently exploring **training-free and codec-level forensic approaches**
   
 - 📫 How to reach me **esranoyan748@gmail.com**
   
-- 📝 I regularly write articles on **https://medium.com/@esranoyan**
+- 📝 Read my technical articles on **https://medium.com/@esranoyan**
 
 
 <h3 align="left">Connect with me:</h3>
